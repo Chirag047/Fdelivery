@@ -1,5 +1,6 @@
-# Fdelivery - Responsive Food Delivery Website with HTML, CSS & JavaScript
-
+# Fdelivery - Responsive Food Delivery Website
+Fdelivery is a functional frontend of a food Website which has unique navbar and UI design. It is a concept of a food restaurant website. Go order something virtually ;)
+<br><br>
 ![Responsive Food Delivery Website with HTML, CSS and JavaScript](https://raw.githubusercontent.com/wpcodevo/lc26-food-delivery-website/setup/restaurant%20food%20website.jpg "Responsive Food Delivery Website with HTML, CSS and JavaScript")
 
 <hr>
