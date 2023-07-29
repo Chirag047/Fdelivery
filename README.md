@@ -5,7 +5,7 @@ Fdelivery is a functional frontend of a food Website which has unique navbar and
 
 <hr>
 
-## Working App can be found here
+## Working Web App can be found here
 
 https://fdelivery.vercel.app/
 
