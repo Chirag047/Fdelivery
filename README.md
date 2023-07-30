@@ -18,7 +18,7 @@ https://fdelivery.vercel.app/
 
  <hr>
 
-## Demo 
+## Screenshots 
 
 <hr>
 
